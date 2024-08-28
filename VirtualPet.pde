@@ -1,8 +1,34 @@
-
-void setup(){
-  //some of your code here
-}
-void draw(){
-  //more of your code here
-}
-
+size(500,500);
+fill(0,400,0);
+ellipse(250,240,60,60);
+fill(0,300,0);
+ellipse(190,150,60,60);
+fill(0,300,0);
+ellipse(196,200,60,60); //yeah~
+fill(0,0,0);
+ellipse(178,150,10,20);
+fill(200,0,0);
+ellipse(191,158,10,8);
+fill(0,0,0);
+ellipse(170,120,16,5);
+fill(0,0,0);
+ellipse(209,120,16,5);
+fill(0,0,0);
+ellipse(204,150,10,20);
+fill(0,300,0);
+ellipse(190,250,60,60);
+fill(0,300,0);
+ellipse(310,250,60,60);
+fill(0,300,0);
+ellipse(370,238,60,60);
+ellipse(207,140,8,1);
+ellipse(174,140,8,1);
+fill(0,0,0);
+ellipse(208,198,4,4);
+ellipse(180,198,4,4);
+ellipse(180,210,4,4);
+ellipse(208,210,4,4);
+ellipse(180,260,4,4);
+ellipse(200,260,4,4);
+ellipse(180,240,4,4);
+ellipse(200,240,4,4);//thank uu
